@@ -1,0 +1,9 @@
+.jumbotron {
+	background: url(http://www.inetours.com/Pages/images/GGB/Golden_Gate_B-sunset.jpg) no-repeat center center;
+	background-size: cover;
+	min-height: 250px;
+}
+
+h1 {
+	color: white;
+}
